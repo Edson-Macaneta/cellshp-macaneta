@@ -1,5 +1,4 @@
 {
-  "name": "Nebula Nexus",
-  "description": "A secure, next-generation AI workspace featuring Firebase Authentication and Google Gemini 2.5 Flash integration. Experience seamless chat capabilities in a beautifully crafted, dark-themed UI.",
-  "requestFramePermissions": []
+  "name": "FluxoWin",
+  "description": "Uma aplicação robusta de gestão de fluxo de caixa com estética Windows nativa e análise financeira baseada em IA."
 }
